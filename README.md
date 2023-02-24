@@ -1,6 +1,8 @@
 # my-browser
 Created browser by using python
-
+<p>
+<img src="https://github.com/Anuj-gr8/my-browser/blob/main/browser.jpg" alt="my image" width="400" height="400">
+</p>
 To download the browser created by me 
 
 <a href="https://drive.google.com/file/d/1v7-TTqlB2zgM4hDdNOPtXo3U7HHhzwi9/view?usp=share_link">Click Here<a/>
